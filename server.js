@@ -20,8 +20,8 @@ app.get('/customer', function (req, res) {
 app.get('/customer/:id', function (req, res) {
    // First read existing users.
    fs.readFile( __dirname + "/" + "customer.json", 'utf8', function (err, data) {
-       users = JSON.parse( data );
-       var user = users["user" + req.params.id] 
+       var users = JSON.parse( data );
+       var user = users["customer" + req.params.id] 
        console.log( user );
        res.end( JSON.stringify(user));
    });

@@ -1,20 +1,142 @@
 {
-   "user1" : {
-      "name" : "mahesh",
-	  "password" : "password1",
-	  "profession" : "teacher",
-	  "id": 1
-   },
-   "user2" : {
-      "name" : "suresh",
-	  "password" : "password2",
-	  "profession" : "librarian",
-	  "id": 2
-   },
-   "user3" : {
-      "name" : "ramesh",
-	  "password" : "password3",
-	  "profession" : "clerk",
-	  "id": 3
-   }
+  "customer1": {
+    "_id": "590168534f624b08367f5bef",
+    "guid": "88258c27-ca06-43aa-8a6b-77c79273fc01",
+    "isActive": true,
+    "balance": "$1,468.86",
+    "age": 22,
+    "name": "Katherine",
+    "lastName": "Buchanan",
+    "gender": "female",
+    "company": "CANDECOR",
+    "email": "katherinebuchanan@candecor.com",
+    "phone": "+1 (824) 554-2712",
+    "address": "683 Herkimer Court, Belfair, New York, 6835",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Gretchen Avery"
+      },
+      {
+        "id": 1,
+        "name": "Winnie Collins"
+      },
+      {
+        "id": 2,
+        "name": "Mejia Elliott"
+      }
+    ]
+  },
+  "customer2": {
+    "_id": "590168537febd7e85e8b585e",
+    "guid": "b5a38980-1839-45e4-a021-d675a364cf2c",
+    "isActive": true,
+    "balance": "$2,316.59",
+    "age": 29,
+    "name": "Bowman",
+    "lastName": "Fulton",
+    "gender": "male",
+    "company": "VERTIDE",
+    "email": "bowmanfulton@vertide.com",
+    "phone": "+1 (872) 567-2525",
+    "address": "705 Columbus Place, Cawood, Oklahoma, 278",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Marsha Bishop"
+      },
+      {
+        "id": 1,
+        "name": "Willie Roth"
+      },
+      {
+        "id": 2,
+        "name": "Lela Gould"
+      }
+    ]
+  },
+  "customer3": {
+    "_id": "59016853d8c126baa554c4be",
+    "guid": "c900496a-b44b-41f1-b1fc-100800040b39",
+    "isActive": true,
+    "balance": "$1,580.01",
+    "age": 38,
+    "name": "Melton",
+    "lastName": "Patel",
+    "gender": "male",
+    "company": "VURBO",
+    "email": "meltonpatel@vurbo.com",
+    "phone": "+1 (974) 414-2006",
+    "address": "220 Ainslie Street, Chemung, Vermont, 9151",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Adrian Snider"
+      },
+      {
+        "id": 1,
+        "name": "Pugh Lawson"
+      },
+      {
+        "id": 2,
+        "name": "Gena Mejia"
+      }
+    ]
+  },
+  "customer4": {
+    "_id": "59016853fedd6a7012761532",
+    "guid": "9e088d50-cffd-4e9f-ae62-8a455f5436e0",
+    "isActive": true,
+    "balance": "$2,413.41",
+    "age": 39,
+    "name": "Golden",
+    "lastName": "Gallegos",
+    "gender": "male",
+    "company": "SONGBIRD",
+    "email": "goldengallegos@songbird.com",
+    "phone": "+1 (804) 444-3597",
+    "address": "242 Prospect Avenue, Beason, Indiana, 9436",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Marguerite Bender"
+      },
+      {
+        "id": 1,
+        "name": "Puckett Bentley"
+      },
+      {
+        "id": 2,
+        "name": "Lindsay Francis"
+      }
+    ]
+  },
+  "customer5": {
+    "_id": "590168533cde2ce27113b019",
+    "guid": "073a93f8-b75c-4ad5-ad0c-d86cf664c30b",
+    "isActive": true,
+    "balance": "$2,306.08",
+    "age": 21,
+    "name": "Teresa",
+    "lastName": "Chang",
+    "gender": "female",
+    "company": "ZOLAREX",
+    "email": "teresachang@zolarex.com",
+    "phone": "+1 (944) 504-3700",
+    "address": "811 Coffey Street, Walker, District Of Columbia, 7822",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Nguyen Hahn"
+      },
+      {
+        "id": 1,
+        "name": "Jamie Lott"
+      },
+      {
+        "id": 2,
+        "name": "Nash Ellis"
+      }
+    ]
+  }
 }
