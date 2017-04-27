@@ -138,5 +138,229 @@
         "name": "Nash Ellis"
       }
     ]
+  },
+    "customer6":{
+    "_id": "59017e81be3a4b023f7d8a7d",
+    "guid": "b6608615-85de-4c11-8783-783de7939889",
+    "isActive": true,
+    "balance": "$2,673.67",
+    "age": 22,
+    "name": "Hall",
+    "lastName": "Travis",
+    "gender": "male",
+    "company": "RAMJOB",
+    "email": "halltravis@ramjob.com",
+    "phone": "+1 (991) 468-2603",
+    "address": "575 Oriental Boulevard, National, South Dakota, 770",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sheri Kane"
+      },
+      {
+        "id": 1,
+        "name": "Jacobson Holcomb"
+      },
+      {
+        "id": 2,
+        "name": "Johnston Powers"
+      }
+    ]
+  },
+    "customer7": {
+    "_id": "59017e8142a9fe22165d1545",
+    "guid": "586833cc-3587-4f19-aad6-2ded742d48ec",
+    "isActive": false,
+    "balance": "$3,458.36",
+    "age": 27,
+    "name": "Chaney",
+    "lastName": "Macdonald",
+    "gender": "male",
+    "company": "PUSHCART",
+    "email": "chaneymacdonald@pushcart.com",
+    "phone": "+1 (939) 419-2932",
+    "address": "360 Freeman Street, Dotsero, Alabama, 9548",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Chapman Page"
+      },
+      {
+        "id": 1,
+        "name": "Janna Walton"
+      },
+      {
+        "id": 2,
+        "name": "Brown Sosa"
+      }
+    ]
+  },
+    "customer8":{
+    "_id": "59017e812a30224d42a64096",
+    "guid": "c1f36776-b541-4245-8933-94b2e64494e6",
+    "isActive": false,
+    "balance": "$2,829.87",
+    "age": 21,
+    "name": "Wilkinson",
+    "lastName": "Saunders",
+    "gender": "male",
+    "company": "COMBOGENE",
+    "email": "wilkinsonsaunders@combogene.com",
+    "phone": "+1 (905) 408-3751",
+    "address": "747 McClancy Place, Fairview, New Jersey, 9204",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Aurelia Coleman"
+      },
+      {
+        "id": 1,
+        "name": "Berta Potts"
+      },
+      {
+        "id": 2,
+        "name": "Richard Wallace"
+      }
+    ]
+  },
+    "customer9": {
+    "_id": "59017e810035295bdc15d666",
+    "guid": "6ad9e571-4c45-4156-b27c-b87355c84ca0",
+    "isActive": false,
+    "balance": "$3,198.83",
+    "age": 28,
+    "name": "Roberson",
+    "lastName": "Johnston",
+    "gender": "male",
+    "company": "GREEKER",
+    "email": "robersonjohnston@greeker.com",
+    "phone": "+1 (938) 577-3890",
+    "address": "432 Pine Street, Aberdeen, Michigan, 7921",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Grace Guerrero"
+      },
+      {
+        "id": 1,
+        "name": "Livingston Haley"
+      },
+      {
+        "id": 2,
+        "name": "Stewart Kidd"
+      }
+    ]
+  },
+    "customer10": {
+    "_id": "59017e812a7ffe153aaced34",
+    "guid": "054e9911-aa88-467b-8821-13863ff4c5dc",
+    "isActive": true,
+    "balance": "$1,527.72",
+    "age": 25,
+    "name": "Rosalind",
+    "lastName": "Mccall",
+    "gender": "female",
+    "company": "CONFRENZY",
+    "email": "rosalindmccall@confrenzy.com",
+    "phone": "+1 (980) 543-3815",
+    "address": "872 Milford Street, Darbydale, Northern Mariana Islands, 6223",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Lynn Mcneil"
+      },
+      {
+        "id": 1,
+        "name": "Bertie Thompson"
+      },
+      {
+        "id": 2,
+        "name": "Sexton Fulton"
+      }
+    ]
+  },
+    "customer11": {
+    "_id": "59017e81f6d7add2d2b90f0c",
+    "guid": "b4c69bae-24a6-4d8e-939a-f524262263a4",
+    "isActive": false,
+    "balance": "$1,124.57",
+    "age": 23,
+    "name": "Eva",
+    "lastName": "Ferguson",
+    "gender": "female",
+    "company": "VIXO",
+    "email": "evaferguson@vixo.com",
+    "phone": "+1 (914) 427-2921",
+    "address": "407 Lott Avenue, Fruitdale, Hawaii, 8100",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Ruiz Scott"
+      },
+      {
+        "id": 1,
+        "name": "Dixon Figueroa"
+      },
+      {
+        "id": 2,
+        "name": "Molly Brennan"
+      }
+    ]
+  },
+    "customer12": {
+    "_id": "59017e8155b3dea279922020",
+    "guid": "270b1a10-db64-4db3-9031-837c03454896",
+    "isActive": true,
+    "balance": "$1,824.91",
+    "age": 33,
+    "name": "Mia",
+    "lastName": "Lewis",
+    "gender": "female",
+    "company": "TROPOLI",
+    "email": "mialewis@tropoli.com",
+    "phone": "+1 (895) 559-3578",
+    "address": "628 Rogers Avenue, Bloomington, Florida, 1175",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Watts Mercado"
+      },
+      {
+        "id": 1,
+        "name": "Mclean Greer"
+      },
+      {
+        "id": 2,
+        "name": "Beth Marsh"
+      }
+    ]
+  },
+  "customer13": {
+    "_id": "59017e816292159bea92ea62",
+    "guid": "7bbea41b-9579-4678-951f-15d59441f1d0",
+    "isActive": false,
+    "balance": "$3,123.53",
+    "age": 28,
+    "name": "Sosa",
+    "lastName": "Gay",
+    "gender": "male",
+    "company": "INSURESYS",
+    "email": "sosagay@insuresys.com",
+    "phone": "+1 (936) 596-3159",
+    "address": "807 Polhemus Place, Crenshaw, Oregon, 9243",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Travis Ferrell"
+      },
+      {
+        "id": 1,
+        "name": "Sims Hobbs"
+      },
+      {
+        "id": 2,
+        "name": "Katheryn Carpenter"
+      }
+    ]
   }
 }
